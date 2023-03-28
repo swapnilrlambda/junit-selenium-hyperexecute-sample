@@ -1,4 +1,4 @@
-name: Hyperexecute-Playwright
+name: junit-selenium
 on:
   workflow_dispatch:
     inputs:
