@@ -23,7 +23,7 @@ jobs:
           command: chmod u+x hyperexecute
       - run:
           name: "Runner Command"
-          command: ./hyperexecute --user gchawhan10 --key e0LlLtwPOwFxS1RcCyuenLu8vmO6Xpl3vO0Ppx4lNqiAuQBPYU --config yaml/win/junit_hyperexecute_autosplit_sample.yaml --no-track
+          command: ./hyperexecute --user swapnilr --key P2JLQmiv9xD2CXQ9NKqhAmCV8vOO39ydUYevlkelG0pZaO4Qdb --config yaml/win/junit_hyperexecute_autosplit_sample.yaml --no-track
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 #jjkda
